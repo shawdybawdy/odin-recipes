@@ -14,10 +14,20 @@
   </div>
   <div>
   </div>
+  <div>
+    <h3>Recipe Details</h3>
+    <p><strong>Yields</strong>: One deep 10 by 10 pan!
+    <p><strong>Prep Time</strong>: 
+    
+  </div>
  <div>
  <h4>Ingredients</h4>
     <ul>
       <li>3 cups of dry macaroni noodles</li>
+      <li>12 oz of shredded colby jack cheese</li>
+      <li>8 oz of shredded medium cheddar cheese</li>
+      <
+      
    </ul>
  </div>
   
