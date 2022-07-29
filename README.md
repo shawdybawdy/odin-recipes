@@ -16,8 +16,10 @@
   </div>
   <div>
     <h3>Recipe Details</h3>
-    <p><strong>Yields</strong>: One deep 10 by 10 pan!
-    <p><strong>Prep Time</strong>: 
+    <p><strong>Yields</strong>: One deep 10 by 10 pan!</p>
+    <p><strong>Prep Time</strong>: 30 minutes</p>
+    <p><strong>Cook Time</strong>: 45 minutes</p>
+     
     
   </div>
  <div>
