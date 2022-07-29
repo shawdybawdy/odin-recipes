@@ -23,13 +23,27 @@
     
   </div>
  <div>
- <h4>Ingredients</h4>
+ <h3>Ingredients</h3>
     <ul>
       <li>12 oz <em>or</em> 3 cups of dry Macaroni noodles</li>
-      <li>12 oz <em>or</em> 2 cups of shredded Colby Jack cheese</li>
-      <li>8 oz <em>or</em> 1 cups of shredded Medium Cheddar cheese</li>
-      <li>8 oz <em>or</em> 1 cups of shredded Mexican Stlye cheese (unseasoned)</li>
-      <p><em>Pro Tip: You can always visit your grocery store deli, and get a couple slices of different cheeses and add them to your Macaroni!</em></p>
+      <li>12 oz <em>or</em> 4 cups of shredded Colby Jack cheese</li>
+      <li>8 oz <em>or</em> 2 cups of shredded Medium Cheddar cheese</li>
+      <li>8 oz <em>or</em> 2 cups of shredded Mexican Stlye cheese (unseasoned)</li>
+      <li>8 oz <em>or</em> 1 cup of sour cream</li>
+      <li>24 oz <em>or</em> 3 cups of evaporated milk</li>
+      <li>1 tsp of salt</li>
+      <li>1 tsp of pepper</li>
+      <li>2 tsp of red pepper flakes</li>
+      <li>1 egg plus an egg yolk</li>
+      <li>8 tbsp <em>or</em> 1 stick of margarine or butter</li>
+      
+   </ul>
+  </div>
+  <div>
+    <
+   
+    
+        
       
    </ul>
  </div>
